@@ -68,13 +68,13 @@ It keeps projects **clean, organized, and scalable** by encouraging modular arch
 
 ## ☕ Support My Work
 
-I build open-source packages, developer tools, and self-hosted plugins in my spare time.
+I build open-source Laravel packages, developer tools, and self-hosted plugins in my spare time. 
 
-If something I've created has helped your workflow, inspired a project, or improved your server setup, consider supporting my work with a coffee.
+If my code has helped speed up your workflow, inspired a new project, or cleaned up your home server, please consider supporting my work on Ko-fi. 
 
-Your support helps me continue building and sharing more tools with the community.
+Your support helps keep my servers running and fuels the late-night coding sessions so I can keep sharing tools with the community!
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/jackwander)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z71W57X6)
 
 ---
 
