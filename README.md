@@ -66,15 +66,18 @@ It keeps projects **clean, organized, and scalable** by encouraging modular arch
 
 ---
 
-## ☕ Support My Work
+## ❤️ Support My Work
 
-I build open-source Laravel packages, developer tools, and self-hosted plugins in my spare time. 
+I build open-source Laravel packages, developer tools, and self-hosted plugins in my spare time.
 
-If my code has helped speed up your workflow, inspired a new project, or cleaned up your home server, please consider supporting my work on Ko-fi. 
+If my code has helped speed up your workflow, inspired a new project, or cleaned up your home server, please consider supporting my work.
+
+**[GitHub Sponsors](https://github.com/sponsors/jackwander)** is the best way to back me — recurring support lets me dedicate real time to maintaining and growing these tools. Prefer a one-off tip? **Ko-fi** works great too.
 
 Your support helps keep my servers running and fuels the late-night coding sessions so I can keep sharing tools with the community!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z71W57X6)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/jackwander)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z71W57X6)
 
 ---
 
